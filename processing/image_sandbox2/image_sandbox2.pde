@@ -9,7 +9,7 @@ PImage currentGlyph;
 int keyIndex  = 0;
 
 void setup(){
-    img = loadImage("input.jpg");
+    img = loadImage("input.png");
   size(800,500);
 
 }
